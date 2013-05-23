@@ -1,7 +1,6 @@
 <?php
 class Dbconn
 {
-	
 	private $conn;
     // 保存类实例在此属性中
     private static $instance;
